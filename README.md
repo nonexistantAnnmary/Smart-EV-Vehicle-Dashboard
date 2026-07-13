@@ -32,10 +32,6 @@ prediction.py     → ML range prediction
 utils.py          → Helper functions  
 app.py            → Main application
 
-## Screenshots
-
-(Add screenshots here)
-
 ## Future Improvements
 
 - CAN Bus integration
